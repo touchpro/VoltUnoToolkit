@@ -1,0 +1,41 @@
+volt uno v2
+
+built with gcc 4.7
+
+the following governors are present right now:
+conservative
+ondemand
+userspace
+powersave
+interactive
+performance
+intellidemand
+
+the following io schedulers are present right now:
+noop
+deadline
+row
+cfq
+bfq
+sioplus
+sio
+fifo
+fiops
+vr
+zen
+
+-added faux simple gpu governor (dont set interactive cpu gov with it, causes freeze and reboot)
+-added frandom
+-added intelliplug
+-beginning zram support
+-kernel samepage merging support
+-1.6ghz overclock
+-modded ramdisk to give root to adb by default (needs insecure adbd)
+-other stuff that i forgot to document
+
+Todo:
+add insecure adbd (adb remount)
+selinux permissive
+ramdisk init.d support
+otg
+any suggestions you guys may have
