@@ -36,8 +36,8 @@ cd ..
 # bump it
 python2 ~/voltunotoolkit/tools/bump.py image-new.img
 # rename it
-mv image-new_bumped.img voltunov2.img
+mv image-new_bumped.img voltunov3.img
 # copy to main directory, go there
 cp voltunov2.img ~/voltunotoolkit/
-rm ~/voltunotoolkit/AIK-Linux/voltunov2.img
+rm ~/voltunotoolkit/AIK-Linux/voltunov3.img
 cd ..

@@ -15,7 +15,7 @@ export ARCH=arm
 export TARGET_PRODUCT=x5_spr_us
 export DTS_TARGET=msm8226-x5_spr_us
 export PATH=$PATH:tools/lz4demo
-export CROSS_COMPILE=~/voltunotoolkit/arm-eabi-4.7/bin/arm-eabi-
+export CROSS_COMPILE=~/voltunotoolkit/toolchain/bin/arm-eabi-
 make  O=./out ARCH=arm voltuno_defconfig
 # make the kernel
 make O=./out -j4
