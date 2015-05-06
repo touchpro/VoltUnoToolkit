@@ -1,14 +1,17 @@
 Note: since i rushed this out, it doesnt yet build a full boot.img or build modules. Since we are building a stock kernel, we dont really need to worry about modules since users will already have the correct ones we want in their /system/lib/modules directory. In case you want to build custom modules, I cant help you with that right now. Ill fix this in the future, but for now the following is how it goes.
 
-1) download zv5 source from my github @ https://github.com/touchpro/android_kernel_lge_x5zv5
+1) download zv5 source from my github @ https://github.com/touchpro/android_kernel_lge_voltuno
 
-2) unzip it to kernel folder
+2) download the linaro 4.9.3 (or whichever linaro prebuilt toochain you want) from here http://forum.xda-developers.com/showthread.php?t=2098133 and unpack it to linaro 4.9.3 dir 
 
 3) download AIK-Linux from xda @ http://forum.xda-developers.com/showthread.php?t=2073775
 
 4) unpack AIK-Linux to AIK-Linux folder
 
 5) if running the toolkit for the first time, run ". unpackstockboot.sh" to unpack the stock boot image
+
+5.5) MAKE SURE YOU DO THIS! ~/voltunotoolkit/kernel/Makefile: line 196: change /home/jesse/ to /home/whateveryourusernameis/
+The reason for this is the compiler doesnt like the ~/ home folder designation. Its a pain in the nuts but oh well. Ill fix it in the future with a variable that uses pwd.
 
 6) run ". build.sh" without the quotes to get voltunov2.img in main directory
 
@@ -25,5 +28,3 @@ fastboot flash boot image-new_bumped.img
 to flash it over your boot partition once you have tested it and know things are ok.
 
 9) Thats it, release it on android-forums and make sure you upload your changes to the kernel to github according to gplv2.
-
-Note: To replace toolchain, delete the contents of toolchain folder. Replace with contents of desired toolchain. The default right now is google's gcc 4.7 from cyanogenmod sources. 

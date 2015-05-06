@@ -2,6 +2,8 @@ Note: since i rushed this out, it doesnt yet build a full boot.img or build modu
 
 1) download zv5 source from my github @ https://github.com/touchpro/android_kernel_lge_x5zv5
 
+1.1) download the linaro 4.9.3 (or whichever linaro prebuilt toochain you want) from here http://forum.xda-developers.com/showthread.php?t=2098133 and unpack it to linaro 4.9.3 dir
+
 2) unzip it to kernel folder
 
 3) download AIK-Linux from xda @ http://forum.xda-developers.com/showthread.php?t=2073775
@@ -9,6 +11,9 @@ Note: since i rushed this out, it doesnt yet build a full boot.img or build modu
 4) unpack AIK-Linux to AIK-Linux folder
 
 5) if running the toolkit for the first time, run ". unpackstockboot.sh" to unpack the stock boot image
+
+5.5) MAKE SURE YOU DO THIS! ~/voltunotoolkit/kernel/Makefile: line 196: change /home/jesse/ to /home/whateveryourusernameis/
+The reason for this is the compiler doesnt like the ~/ home folder designation. Its a pain in the nuts but oh well. Ill fix it in the future with a variable that uses pwd.
 
 6) run ". build.sh" without the quotes to get voltunov2.img in main directory
 

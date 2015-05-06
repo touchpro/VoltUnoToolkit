@@ -1,6 +1,6 @@
-volt uno v2
+volt uno v3
 
-built with gcc 4.7
+compiled with linaro 4.9.3 and cortex a15/neon optimizations
 
 the following governors are present right now:
 conservative
@@ -9,7 +9,14 @@ userspace
 powersave
 interactive
 performance
-intellidemand
+intellidemand 5.5
+and the following thanks to chevanlol360:
+lionheart
+wheatley
+intelliactive
+hotplug
+lazy
+minmax
 
 the following io schedulers are present right now:
 noop
@@ -25,17 +32,29 @@ vr
 zen
 
 -added faux simple gpu governor (dont set interactive cpu gov with it, causes freeze and reboot)
+-faux sound control 3.4 (thanks chevanlol360)
 -added frandom
--added intelliplug
--beginning zram support
--kernel samepage merging support
+-added intelliplug 3.8
+-beginning zram support (needs correct values and init script modification in ramdisk)
+-kernel samepage merging
 -1.6ghz overclock
 -modded ramdisk to give root to adb by default (needs insecure adbd)
+-ramdisk init.d support
+-intellithermal
 -other stuff that i forgot to document
 
 Todo:
 add insecure adbd (adb remount)
-selinux permissive
-ramdisk init.d support
+fix smartassv2
+fix interactive (what a crash fest that is)
 otg
 any suggestions you guys may have
+
+You can use trickstermod or Faux clock from market to turn off mpdecision and use intelliplug instead. Intelliplug will let you use all 4 cores at the same speed at once, reducing battery life at the cost of super quick response with Intellidemand.
+
+To get around the whole adb remount and adb as root issue right now, go on xda and look for "Adbd Insecure" or be awesome and support a hell of a dev by buying it from chainfire in the market. (no affiliation with any program or developer mentioned, just recognize how much all of them have done for our devices)
+
+I decided against disabling or setting SELinux to permissive. It works fine just how it is, and nothing this kernel does needs it. If you want to set SELinux to permissive, there are apps in the market or you can use adb:
+
+su setenforce 0
+getenforce (should say permissive)

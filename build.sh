@@ -2,6 +2,8 @@
 # replace default.prop
 rm ~/voltunotoolkit/AIK-Linux/ramdisk/default.prop
 cp ~/voltunotoolkit/tools/default.prop ~/voltunotoolkit/AIK-Linux/ramdisk/
+rm ~/voltunotoolkit/AIK-Linux/ramdisk/init.rc
+cp ~/voltunotoolkit/tools/init.rc ~/voltunotoolkit/AIK-Linux/ramdisk/
 # build kernel
 # get to the right directory
 cd kernel
@@ -10,12 +12,12 @@ make clean
 make mrproper
 rm -r out
 mkdir -p out
-# using gcc 4.7
+# using linaro 4.9.3
 export ARCH=arm
 export TARGET_PRODUCT=x5_spr_us
 export DTS_TARGET=msm8226-x5_spr_us
 export PATH=$PATH:tools/lz4demo
-export CROSS_COMPILE=~/voltunotoolkit/toolchain/bin/arm-eabi-
+export CROSS_COMPILE=~/voltunotoolkit/linaro4.9.3/bin/arm-cortex_a15-linux-gnueabihf-
 make  O=./out ARCH=arm voltuno_defconfig
 # make the kernel
 make O=./out -j4
@@ -38,6 +40,6 @@ python2 ~/voltunotoolkit/tools/bump.py image-new.img
 # rename it
 mv image-new_bumped.img voltunov3.img
 # copy to main directory, go there
-cp voltunov2.img ~/voltunotoolkit/
+cp voltunov3.img ~/voltunotoolkit/
 rm ~/voltunotoolkit/AIK-Linux/voltunov3.img
 cd ..
