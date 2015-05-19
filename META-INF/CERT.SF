@@ -1,0 +1,1660 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: 3MyUkIkis95HI68yNvaS2BOtbnA=
+
+Name: patch/system/lib/modules/tuner-types.ko.p
+SHA1-Digest: m3hJKjuulMqAuSEo8slEYbowTF8=
+
+Name: patch/system/cust/overlay/app/com.lge.sizechangable.weather.apk.
+ p
+SHA1-Digest: eF6idnYURYOq5G81uThFPpZzC0Y=
+
+Name: patch/system/app/LatinIME.odex.p
+SHA1-Digest: QnGPe7uAGhnDSILEY+pse8fTza4=
+
+Name: patch/system/app/LGPartnerBookmarksProvider.apk.p
+SHA1-Digest: gMC1jxUqsvFIECU930WUpHgI/Z0=
+
+Name: patch/system/lib/libstagefright_soft_aacdec.so.p
+SHA1-Digest: 55tAGwGouhdDShR8iI3winfP8go=
+
+Name: patch/system/lib/libfacelock_jni.so.p
+SHA1-Digest: AsZLGtKSZsAFmedr1nfFeAbJakE=
+
+Name: patch/system/app/LGSystemServer.odex.p
+SHA1-Digest: PMfD+2GZ/wtz1h4U4b05sFLkyTc=
+
+Name: patch/system/framework/com.lge.telephony.sms.odex.p
+SHA1-Digest: ZCT7iEhBiMU8hj1CH3VSQg/Jtog=
+
+Name: patch/system/framework/bouncycastle.odex.p
+SHA1-Digest: wE0SaL+V6o0V40Yo+AhMTheQ/YI=
+
+Name: patch/system/vendor/lib/libmmcamera2_imglib_modules.so.p
+SHA1-Digest: C6oZ7Y+ghZvkY6c2eh56EoU9qms=
+
+Name: patch/system/app/PlayGames.apk.p
+SHA1-Digest: RS31ugTSQGOr09RBatRas6i2zkI=
+
+Name: patch/system/framework/com.lge.frameworks.odex.p
+SHA1-Digest: Vn37qc1iqzHa9PYUpp+vc2KtBdQ=
+
+Name: patch/system/priv-app/SetupWizard.odex.p
+SHA1-Digest: dF3/qtqs4SMU8psnyl3XQw+AUpU=
+
+Name: patch/system/priv-app/TraditionalVM.odex.p
+SHA1-Digest: NRxUWypSHBF/XS4JdlwOwi8ZIJg=
+
+Name: patch/system/lib/libLLVM.so.p
+SHA1-Digest: 2puf8/d/z2EMlBrpE2sjX+l2Tuc=
+
+Name: patch/system/priv-app/Vtt-Sprint.odex.p
+SHA1-Digest: nZdCkpENQ20bNR1bdVfJuqFSyq8=
+
+Name: patch/system/priv-app/LGBackup.odex.p
+SHA1-Digest: r5tD87rVdUHAD+0+p43JIw48Tcs=
+
+Name: patch/system/app/Maps.apk.p
+SHA1-Digest: o0jr6hz0ThmVBZPII/ayZtLyy4Y=
+
+Name: patch/system/priv-app/LGStreamingPlayer.odex.p
+SHA1-Digest: 5uzsTGbEuirnQGIMwE++B1eRMTw=
+
+Name: patch/system/priv-app/LGCalculator.odex.p
+SHA1-Digest: wWVmyT7dgh181PTLjVTJsn+XOlo=
+
+Name: patch/system/framework/com.lge.sui.widget.odex.p
+SHA1-Digest: H7ORM8pHeD5ZgocY9E9Yhzqdvd8=
+
+Name: patch/system/priv-app/ItsOnUID.apk.p
+SHA1-Digest: 33kEFyhe8P9k4Kn8vdjbySLjdSA=
+
+Name: patch/system/framework/com.google.android.media.effects.jar.p
+SHA1-Digest: OL4UG0ODnKvwDlvE1tLqywikTuE=
+
+Name: patch/system/framework/services-ext.jar.p
+SHA1-Digest: pd3JDR39xzR0H7csd6kX2i3KH4I=
+
+Name: patch/system/priv-app/SharedStorageBackup.odex.p
+SHA1-Digest: KC1scdnSiFvFNI8MLspU/u/6xi0=
+
+Name: patch/system/framework/qcom.fmradio.odex.p
+SHA1-Digest: zsFEaLC3h/JH+FKxgYxPB+sAc2M=
+
+Name: patch/system/app/GnssPosTest.odex.p
+SHA1-Digest: m0G8p3mNGqNpJkjLoof2WTnstXI=
+
+Name: patch/system/priv-app/Maluuba_QVoice.odex.p
+SHA1-Digest: QTMFgMAgUNM6aCz6WbLgtSn1kVA=
+
+Name: patch/system/lib/modules/gpio_input.ko.p
+SHA1-Digest: mUSGku+Z/mgVE/9DM9Vqolac06A=
+
+Name: patch/system/priv-app/Activation.odex.p
+SHA1-Digest: XvQyxpEeuxeUXfOf1u0CGF4gHmY=
+
+Name: patch/system/lib/modules/oprofile.ko.p
+SHA1-Digest: iaVD7fOhVp0CkZkT6Ce9xkHVpdU=
+
+Name: patch/system/app/LGDivXDRM.apk.p
+SHA1-Digest: zzeNGJNv3faXtPfm6V716DJv90w=
+
+Name: patch/system/framework/lghiddenlibs.jar.p
+SHA1-Digest: 4slo+ZTzjli9njqMhxMedt4TH1E=
+
+Name: patch/system/app/PlusOne.odex.p
+SHA1-Digest: QcvQ/9NmdBRurRL0jxVfS3tJmfw=
+
+Name: patch/system/lib/libvideochat_jni.so.p
+SHA1-Digest: XMe+41ac9oAWBxjAHX53+cEfenY=
+
+Name: patch/system/framework/ime.jar.p
+SHA1-Digest: TZVinuqrIsSGjr+zdEq0QljW94g=
+
+Name: system/vendor/itson/kernel.api
+SHA1-Digest: uNnFpJjK+klL/8MXiJt8ldMU7c8=
+
+Name: patch/system/framework/com.lge.app.floating.odex.p
+SHA1-Digest: NbUOzYeah6JD7p4rgFCLhelDimI=
+
+Name: system/lib/libchrome.1985.135.so
+SHA1-Digest: N3nZcge+2z2fF6QP9HuCFP+95Ps=
+
+Name: patch/system/app/HiddenMenu.odex.p
+SHA1-Digest: TrWC5bc0AhLLH+KJneO3zrApooI=
+
+Name: patch/system/priv-app/LGStartupwizard.odex.p
+SHA1-Digest: j+mielzjx5UZhVoDDk0bR23uU0c=
+
+Name: patch/system/framework/com.uei.control.odex.p
+SHA1-Digest: 1ezCuEpkuMGMqMwJcp28csCrol4=
+
+Name: patch/system/lib/modules/mt2131.ko.p
+SHA1-Digest: F1/+PhrUmSXu91V3s5cOXKIpR4U=
+
+Name: patch/system/app/ChromeWithBrowser.odex.p
+SHA1-Digest: Ypru2IA9DTNBZWbf60NJzHRFAT0=
+
+Name: patch/system/framework/com.lge.fmradio.jar.p
+SHA1-Digest: JwM/yuxSnc2J/vjRc7hWDP7ip+M=
+
+Name: patch/system/priv-app/WallpaperCropper.odex.p
+SHA1-Digest: Hvm5f3EYtLHpfKx9YjwwWRprs1E=
+
+Name: patch/system/cust/overlay/app/com.android.providers.downloads.ui
+ .apk.p
+SHA1-Digest: 091AUuZ9oACjIjVtQQne/HUGH4g=
+
+Name: patch/system/framework/pm.odex.p
+SHA1-Digest: O3tQJdWxApfmQ/u1Ygi7dv0C440=
+
+Name: patch/system/app/TimeService.odex.p
+SHA1-Digest: JJk+5iC/VVkG2gbtym1blA7rttg=
+
+Name: patch/system/app/GoogleContactsSyncAdapter.apk.p
+SHA1-Digest: xVvQSJkQSCQanzq5CzcdXXCEfLU=
+
+Name: system/framework/com.lge.frameworks.jar
+SHA1-Digest: vjIY3vXeV55akjA+5WgkAUPb98o=
+
+Name: patch/system/priv-app/LGCalendarProvider.odex.p
+SHA1-Digest: sVJ6dEvF465rNJ/JzOPdiPFehv0=
+
+Name: patch/system/framework/requestsync.odex.p
+SHA1-Digest: lFNu0AfhkB8wrXHWbrpTvhzv/hE=
+
+Name: patch/system/framework/com.lge.wifi.odex.p
+SHA1-Digest: jkZgVvUHRlHtlboAGkuqWO8L7LE=
+
+Name: patch/system/lib/libgcastv2_base.so.p
+SHA1-Digest: JfJXVHxdurrZPwDtV0WVutB61ZM=
+
+Name: system/lib/libgmm-jni.so
+SHA1-Digest: 75juq768TXVA7/udiWQ/tVEbQvI=
+
+Name: patch/system/app/LGSearchWidgetProvider.odex.p
+SHA1-Digest: nhbZKFPsaZCG3ata0ufoS+3jPDg=
+
+Name: patch/system/lib/modules/tda8290.ko.p
+SHA1-Digest: LjMrOJbb+E+zfLtePvBJz58qCyg=
+
+Name: patch/system/app/Gmail2.odex.p
+SHA1-Digest: eKngwI05umCRZzH7ckZHhvpoCWs=
+
+Name: patch/system/app/GnssAirTest.odex.p
+SHA1-Digest: 0eym5F235RgzlZ4WAu3p7RVs4/A=
+
+Name: patch/system/lib/modules/tea5767.ko.p
+SHA1-Digest: JG2wEkG+jaWeULA3FirUP1YxqL8=
+
+Name: patch/system/priv-app/SmartShareBeam.odex.p
+SHA1-Digest: yPBXG/yxfpEYX42+/iu4DalKrLY=
+
+Name: patch/system/cust/overlay/app/com.lge.clock.apk.p
+SHA1-Digest: cjyunNAtB0aCtWodkyLCTVmOy6Y=
+
+Name: patch/system/app/UserDictionaryProvider.apk.p
+SHA1-Digest: 2xtjPrqOKlC0iO+QZMmkcxA10ws=
+
+Name: patch/system/app/LGHome_Theme_Optimus.odex.p
+SHA1-Digest: Vmq1zEqKGsgDW3XpGuCkkIaQZLg=
+
+Name: patch/system/priv-app/InputDevices.apk.p
+SHA1-Digest: Bf+k90dzjCNBLXBgTJhdxwsXZEo=
+
+Name: patch/system/priv-app/Velvet.apk.p
+SHA1-Digest: JM3ZYLVNNJbLevGI5Mux2rdLBiM=
+
+Name: patch/system/lib/modules/xc5000.ko.p
+SHA1-Digest: zsgDqfbgDzukkd3qInTVjG1e0To=
+
+Name: patch/system/framework/com.lge.divx.jar.p
+SHA1-Digest: lIdKoTWITBbde6rnC7MzW1+83DM=
+
+Name: patch/system/lib/libwebviewchromium.so.p
+SHA1-Digest: e4jtDQFT6rRVftcrE1rNz44Y06k=
+
+Name: patch/system/priv-app/LGSystemUI.apk.p
+SHA1-Digest: 02YG+7a3T06u93z8m2TPGDQteKE=
+
+Name: patch/system/cust/overlay/app/com.lge.videoplayer.apk.p
+SHA1-Digest: mfE4GVbX5qcSmiZ+MEAaQXSCcYw=
+
+Name: patch/system/priv-app/LGVidClip.odex.p
+SHA1-Digest: K8H3hewyFhg5+ZpmgLGzwogl7bk=
+
+Name: patch/system/cust/overlay/app/com.lge.appwidget.clock.apk.p
+SHA1-Digest: 0GvsfKUFMuJEJYAHr17nFutWv6c=
+
+Name: patch/system/framework/framework2.odex.p
+SHA1-Digest: /MfDk4uA6cKvuUSQSX/Ny2venYc=
+
+Name: patch/system/priv-app/SprintExtensionProvider.apk.p
+SHA1-Digest: cEMa7vz0qjgXfECifNmwxEKm5dA=
+
+Name: patch/system/vendor/lib/libmmcamera2_stats_algorithm.so.p
+SHA1-Digest: X5KDxihOa5F12vx30KmriZrvDd0=
+
+Name: patch/system/priv-app/GoogleOneTimeInitializer.odex.p
+SHA1-Digest: WrWWI6ljnGOtyPIQEwuWQQtyKu4=
+
+Name: patch/system/app/LGWeather.apk.p
+SHA1-Digest: OMzA7jhQAErVLfO/k8YRT36GdCQ=
+
+Name: patch/system/app/DocumentsUI.apk.p
+SHA1-Digest: 3WvPOBqI4RtWuqTEIdAjxcDldiU=
+
+Name: patch/system/framework/com.lge.emoji.jar.p
+SHA1-Digest: XHKPcKUu4YRvMuO78zkI3aoSIlE=
+
+Name: patch/system/lib/libmoviemaker-jni.so.p
+SHA1-Digest: 7Sg4EY0R9RkERtPf2B5OgPk+ZZY=
+
+Name: patch/system/app/LGDMSClient.odex.p
+SHA1-Digest: uxOjM7q3kcduDCrdkUF3kh/Nkb4=
+
+Name: system/lib/libframesequence.so
+SHA1-Digest: Fd4yfElQ4cK+e99fo0qn2rly50k=
+
+Name: patch/system/etc/firmware/venus.mdt.p
+SHA1-Digest: xzHeAHc+MqmdbTGUF+OfE43PHSE=
+
+Name: patch/system/app/GoogleCalendarSyncAdapter.odex.p
+SHA1-Digest: wDjEnNLlaAVUEpuQM1esJBdeGhI=
+
+Name: patch/system/app/LGUSMms.odex.p
+SHA1-Digest: tLrUP1UOa7chIpLAHCcFKBa7e0Q=
+
+Name: patch/system/app/QuickSet.odex.p
+SHA1-Digest: 75gEzgshC00p39IZt5AHCrn9BYI=
+
+Name: patch/system/app/GoogleDrive.apk.p
+SHA1-Digest: dx8UAQAekTdzTJwgCqAkoplhQtI=
+
+Name: patch/system/lib/liblgetars.so.p
+SHA1-Digest: YM9Wo1X+URj2U7xft/xFmxHSWDg=
+
+Name: patch/system/cust/overlay/app/com.lge.launcher2.theme.optimus.ap
+ k.p
+SHA1-Digest: LWz9w3euZsap2DqkzDrnSr6KJDo=
+
+Name: patch/system/app/TimeService.apk.p
+SHA1-Digest: Pgh6xVsFbe6oL3SeFWouPhjAxGw=
+
+Name: patch/system/app/LGDMSClient.apk.p
+SHA1-Digest: dS6Qolm7F2GIWdlw2fXWejpxkww=
+
+Name: patch/system/lib/libgoogle_hotword_jni.so.p
+SHA1-Digest: jY3sKdbYEC7wkJFT2mKOjTOOiL0=
+
+Name: patch/system/framework/telephony-common.jar.p
+SHA1-Digest: F+1j4TrQEIqUass4axSGKIQvn20=
+
+Name: patch/system/framework/services-ext.odex.p
+SHA1-Digest: hvbuma6iJh4G4CdcniRD3GbZKug=
+
+Name: patch/system/app/GoogleTTS.odex.p
+SHA1-Digest: F5Vmfx/VL/RMInoyTc5CAN5Hk6g=
+
+Name: system/framework/okhttp.jar
+SHA1-Digest: 2dof/eJ+8S15Q1ENMy01mpkosB8=
+
+Name: patch/system/lib/modules/radio-iris-transport.ko.p
+SHA1-Digest: HYIJ+j+LbWzzU9ExopnsXqG3h/o=
+
+Name: patch/system/framework/com.lge.divx.odex.p
+SHA1-Digest: 8bewg4ZbdKDhGsuCCDLoZfdLXfw=
+
+Name: patch/system/priv-app/MLT.odex.p
+SHA1-Digest: lTg3vDlPKUOk4lwpKKSURZbEaAI=
+
+Name: patch/system/framework/telephony-msim.jar.p
+SHA1-Digest: +wB38sMQ9mqFoET4bEwSLMue7Vs=
+
+Name: patch/system/app/LGBluetooth4.odex.p
+SHA1-Digest: RpAysIjq68EAcuHaLz69FSb+9g0=
+
+Name: patch/system/framework/pm.jar.p
+SHA1-Digest: fbXjDmwjrLPnTRxAam4QzDaRtTA=
+
+Name: patch/system/framework/monkey.jar.p
+SHA1-Digest: EmG1z/F/LqDHNmnP5/ihB9Qy7Lw=
+
+Name: patch/system/app/LGFOTA.apk.p
+SHA1-Digest: maIgEE1XGukebs1lXAMkgJ2S38c=
+
+Name: patch/system/priv-app/SharedStorageBackup.apk.p
+SHA1-Digest: Fl7VF81JYil6BjBeXvWbP2yz3J4=
+
+Name: patch/system/app/UnifiedEULA.odex.p
+SHA1-Digest: j0OE+A5yXwrxIAdvxL5BgpMVWKY=
+
+Name: patch/system/priv-app/WIFIOffloader.odex.p
+SHA1-Digest: MrfmoHN1jZWknw0J3AyvsBGLdKg=
+
+Name: patch/system/app/LicenseProvider.odex.p
+SHA1-Digest: D2abm3021dYzpodol/+jqLDGwHQ=
+
+Name: patch/system/lib/modules/qcrypto.ko.p
+SHA1-Digest: vLxjrn2CH6IuSYxXhCD/QAhvvFo=
+
+Name: patch/system/lib/modules/qcedev.ko.p
+SHA1-Digest: bY2M5rhc3VQwujJ/lOhBhcNUy1c=
+
+Name: patch/system/priv-app/WiseScreen.odex.p
+SHA1-Digest: nI3ykgPqgfa8XtmyjGW+AWv/EGU=
+
+Name: patch/system/priv-app/GoogleServicesFramework.apk.p
+SHA1-Digest: gP9Ea9Wzj0mTiEpy1QbyMJFZgmE=
+
+Name: patch/system/app/MediaUploader.apk.p
+SHA1-Digest: i47hVSLkU4g47LiGCDkqUYYQEAI=
+
+Name: patch/system/app/QuicksetSDK.odex.p
+SHA1-Digest: HFkaTQMhkXbSecR7l+kfi9y7lcs=
+
+Name: patch/system/framework/com.android.nfc_extras.odex.p
+SHA1-Digest: h+luTqzm/kSd+z/DnazvnXS7AOc=
+
+Name: patch/system/priv-app/GoogleOneTimeInitializer.apk.p
+SHA1-Digest: kNuLqw59oikEgHNSUlafnkqZkWU=
+
+Name: patch/system/framework/com.lge.telephony.sms.jar.p
+SHA1-Digest: b4+tfmT3fjAmHuHHwCR9KFLinys=
+
+Name: patch/system/lib/modules/max2165.ko.p
+SHA1-Digest: nNKieSb6tpeIfiKhtDRVXjDrYT8=
+
+Name: patch/system/app/KeyChain.odex.p
+SHA1-Digest: FdSNYR+QKeoLZ9K3wBjTEMOAelk=
+
+Name: patch/system/framework/voip-common.jar.p
+SHA1-Digest: bE+cvQeuoHKEKCE6Xky/pqRmMaU=
+
+Name: patch/system/framework/requestsync.jar.p
+SHA1-Digest: x5Yqbedj+5GSbSwOq+DhqlEXedY=
+
+Name: patch/system/lib/libgames_rtmp_jni.so.p
+SHA1-Digest: 0yCukVdURfBPC/w7ppU5CKpzro0=
+
+Name: patch/system/lib/libstagefright_soft_aacenc.so.p
+SHA1-Digest: zrCaWoSjZCoVfkxonubJ7MuXDtQ=
+
+Name: patch/system/app/LGDefaultAccount.odex.p
+SHA1-Digest: H14jWxxMe/U8Z2s2m8XfXEX9vZ8=
+
+Name: patch/system/priv-app/GoogleLoginService.apk.p
+SHA1-Digest: MxWY6XG7YXlMrXPZHFQdkgACQNM=
+
+Name: patch/system/priv-app/LGQMemo.odex.p
+SHA1-Digest: Dku2aR4mpM7M9LjwCgeR3sC+ccU=
+
+Name: patch/system/priv-app/Zone-Sprint.odex.p
+SHA1-Digest: Qt56j1htsgKlzFMnJWSFz20Es30=
+
+Name: patch/system/app/LGHome_Theme_Bunnyfairy.odex.p
+SHA1-Digest: 2Dr6db1TgU964XSYxswr9Ib/LIY=
+
+Name: patch/system/bin/atd.p
+SHA1-Digest: /DeSpQsOf5AT5FnylOWKX3jI1TM=
+
+Name: patch/system/app/LGWeather.odex.p
+SHA1-Digest: s79eW+s6Xi4OyyvqsS9GXqVnoYw=
+
+Name: patch/system/priv-app/SprintSDM.odex.p
+SHA1-Digest: +ClqkJsBAc9Fhw/kYk3dK46mJTs=
+
+Name: patch/system/lib/modules/mcdrvmodule.ko.p
+SHA1-Digest: NXk5Po1tgm9HWfdqn9nxRghED6M=
+
+Name: patch/system/lib/modules/mmc_block_test.ko.p
+SHA1-Digest: ekySIH5jDxEX9Z+1CXmf5JRNdTE=
+
+Name: patch/system/framework/qcmediaplayer.jar.p
+SHA1-Digest: eLha1vRRFQx+dFPBPnPXEzX0d54=
+
+Name: patch/system/cust/overlay/app/com.android.browser.apk.p
+SHA1-Digest: 86gJBL9ZGmVSs4yhQfiLtuY34Q8=
+
+Name: patch/system/cust/overlay/app/com.lge.appbox.client.apk.p
+SHA1-Digest: S4T8xaP95PsKAzZsuDNbNzmR3Us=
+
+Name: patch/system/priv-app/BackupRestoreConfirmation.odex.p
+SHA1-Digest: ajunZRBXhylnEPn0wAIBjtevHvI=
+
+Name: patch/system/bin/sensors.qcom.p
+SHA1-Digest: 8eHFfEhtmsr3UO2jsYEJvzbJKZM=
+
+Name: patch/system/lib/modules/gpio_event.ko.p
+SHA1-Digest: cjUtNLbl3a0Gw5LHk6FzVsXFggE=
+
+Name: patch/system/app/qcrilmsgtunnel.apk.p
+SHA1-Digest: x7CHC+3kK4s8y4tuv7PVP6qLoNc=
+
+Name: patch/system/framework/uiautomator.odex.p
+SHA1-Digest: Zoutz6GkSMbqiC3KGq8/H9uRKmo=
+
+Name: patch/system/priv-app/LGInCallUI.odex.p
+SHA1-Digest: DZ4EkiwMuAn/ozcd8w7R0R3J2/U=
+
+Name: patch/system/framework/com.lge.mdm.odex.p
+SHA1-Digest: +iIG6nOovWYi2V8mmQ7x3VnXvak=
+
+Name: patch/system/framework/core-junit.odex.p
+SHA1-Digest: pBAP5pjGJZkgVNgXqDBNho+QGlg=
+
+Name: patch/system/app/LGTangibleIO.odex.p
+SHA1-Digest: 0kSuxLy22G9wSuOc0zgr9Rko2KQ=
+
+Name: patch/system/lib/modules/tda18218.ko.p
+SHA1-Digest: Oxkw0FDDRCXJN+XHBGGH7+tJv8M=
+
+Name: patch/system/framework/android.test.runner.jar.p
+SHA1-Digest: h1jCo77x7yi+cNkiKoecoqbQUBc=
+
+Name: patch/system/priv-app/SprintTouch.odex.p
+SHA1-Digest: myEbigXzLaPBh3rVjqgjSdb0vLU=
+
+Name: patch/system/app/GnssTest.odex.p
+SHA1-Digest: +NEJDNwgiKblnqOvJoZcuIOilXE=
+
+Name: patch/system/app/Music2.odex.p
+SHA1-Digest: nkBUKWLgJcIKMsAPUcA3XoajxB0=
+
+Name: patch/system/app/LGQRemote.odex.p
+SHA1-Digest: oYUa362rD8jSBRH9VWup6VeqIwg=
+
+Name: patch/system/framework/com.lge.fota.jar.p
+SHA1-Digest: YRg5nxFxZFl5ZtPrKSyuNlfctcA=
+
+Name: patch/system/lib/modules/qt1010.ko.p
+SHA1-Digest: RI9ZdVJDwx4FbdDLz1RW7ldIWXU=
+
+Name: patch/system/framework/lghiddenlibs.odex.p
+SHA1-Digest: o9S0S4zx2ttGOV010LCTbmCa3jk=
+
+Name: patch/system/lib/modules/mc44s803.ko.p
+SHA1-Digest: skfZtOLHEYfK62kVR2nRh2oIOcI=
+
+Name: patch/system/lib/libwebrtc_audio_coding.so.p
+SHA1-Digest: gmtiOCVEBqX3LhVOuFoYHvFvhmM=
+
+Name: patch/system/app/MediaUploader.odex.p
+SHA1-Digest: lBDTG+7mwRwWvWNX6xLPABKbejI=
+
+Name: patch/system/vendor/lib/libsensor1.so.p
+SHA1-Digest: 0H88drHKXOHU3isqSGTaLapDkbQ=
+
+Name: patch/system/app/LGATCMDService.apk.p
+SHA1-Digest: Gh3Y2MN1K7O0/jxEIZ8jNUwVfmo=
+
+Name: system/lib/libdocscanner_image.so
+SHA1-Digest: e2ZaQpOsizOP5W4X2XjJhD2JNB8=
+
+Name: patch/system/framework/com.lge.lgfmservice.odex.p
+SHA1-Digest: Pm3m3NDA+BD/6STNaQI5bTNwG7s=
+
+Name: patch/system/app/WVTest.apk.p
+SHA1-Digest: 1MEnhUG69aBJ0httTYs2I5/mR5o=
+
+Name: patch/system/framework/svc.odex.p
+SHA1-Digest: ftAfchAiLqgma152Si35TfPV/hM=
+
+Name: patch/system/app/LGPartnerBookmarksProvider.odex.p
+SHA1-Digest: tCyWhyOlifNQE5YQ2vdZSzDk2cY=
+
+Name: patch/system/app/GoogleTTS.apk.p
+SHA1-Digest: IWlHo2xsUiQweIkRs/ThPomvs3U=
+
+Name: patch/system/etc/NOTICE.html.gz.p
+SHA1-Digest: s+C1OQnO4xwLZWSWIPM45hYoYTc=
+
+Name: patch/system/app/LGDrm.apk.p
+SHA1-Digest: N6mVlRtqFEETijtKCgFPg3sCcZs=
+
+Name: patch/system/app/KeyChain.apk.p
+SHA1-Digest: 78VtrcJBI7srdOfaCG7y+8P8WAc=
+
+Name: patch/system/framework/com.lge.fota.odex.p
+SHA1-Digest: ZFrzYZcFT/8J8L113K/K60saj3Q=
+
+Name: patch/system/framework/com.google.widevine.software.drm.odex.p
+SHA1-Digest: 0JH024lCBaoTpsi7RdTZ8mzez10=
+
+Name: patch/system/priv-app/LGApplicationManager.odex.p
+SHA1-Digest: Of5PF+1vS4Ffj7gLcDneBAb3B50=
+
+Name: patch/system/cust/overlay/app/com.lge.sizechangable.favoritecont
+ acts.apk.p
+SHA1-Digest: zVCoHkFVup0LcSYmO291CLVbSmA=
+
+Name: patch/system/framework/com.lge.sui.jar.p
+SHA1-Digest: WLrM05+cAGTef+HEKZZo/zmTENU=
+
+Name: patch/system/framework/framework.odex.p
+SHA1-Digest: CQZF38Fdu2zIJBaf0z25YEdCr34=
+
+Name: patch/system/framework/com.lge.lgfmservice.jar.p
+SHA1-Digest: h3DwNz4uV+VsI0BAoFgspG31A4E=
+
+Name: patch/system/cust/overlay/app/com.lge.camera.apk.p
+SHA1-Digest: pdsfNNzKmAe6iExh5JiHIg6s6yM=
+
+Name: radio.img
+SHA1-Digest: MHXLpiZCQlpNMXC9cWApGz6ey6Y=
+
+Name: patch/system/lib/modules/tuner-xc2028.ko.p
+SHA1-Digest: TZzwzyuHoRX643j5KNbN407X1oQ=
+
+Name: patch/system/app/DrmService.odex.p
+SHA1-Digest: X+JK/6D198qQpczR3aDTpGf3zLs=
+
+Name: patch/system/vendor/lib/libmmcamera2_stats_modules.so.p
+SHA1-Digest: AYGZg3jH7YWWCJvzNu/RUYMFa+I=
+
+Name: patch/system/app/PrintSpooler.odex.p
+SHA1-Digest: yekKah0LMr+3LgoDGGABTnAiE8Y=
+
+Name: patch/system/priv-app/LGConnectionWizard.odex.p
+SHA1-Digest: Prs5dGqCxWUql/+iozcyKynTQC0=
+
+Name: patch/system/lib/liblgsecclk.so.p
+SHA1-Digest: HYmSwvWcZZNk+IhzSeVA/v2AD9k=
+
+Name: patch/system/priv-app/LGTeleService.odex.p
+SHA1-Digest: 1WstQlK9rHFRI1yD3FiAkFB8OZ0=
+
+Name: patch/system/app/Books.odex.p
+SHA1-Digest: mgF58dioIXyCy4ZTnpf6bVDpD3k=
+
+Name: patch/system/framework/bmgr.jar.p
+SHA1-Digest: gT2ZPZN+beZE1rfWFyCJSCxaNug=
+
+Name: patch/system/priv-app/Sprint_Installer.odex.p
+SHA1-Digest: o/EEz4SAb7ZgOllaMKaYjHP+bxU=
+
+Name: patch/system/framework/com.google.android.maps.jar.p
+SHA1-Digest: 06+Hl1abWvKoO2I18dVBsqMiPTM=
+
+Name: patch/system/app/Music2.apk.p
+SHA1-Digest: Tl8uYQBNctzrFGgMzYB72HQ3nK4=
+
+Name: patch/system/framework/com.android.media.remotedisplay.jar.p
+SHA1-Digest: 2DlxhmryuGLAPiej1+MrPTslmIk=
+
+Name: patch/system/framework/org.codeaurora.Performance.jar.p
+SHA1-Digest: VV+OZoG4uLAK9fUpI2bfOFwQanI=
+
+Name: patch/system/cust/overlay/app/com.android.calendar.apk.p
+SHA1-Digest: crOCofbVLpfp2SwRB1IaGrIbG5I=
+
+Name: patch/system/app/xtra_t_app.odex.p
+SHA1-Digest: Q3twVJ/gWrcL2PFGbqqzzEArZMM=
+
+Name: patch/system/app/Magazines.apk.p
+SHA1-Digest: dbra/AbEpocuBzIFLqSs084mqfg=
+
+Name: META-INF/com/android/metadata
+SHA1-Digest: wIRHrkcCpRjeTCA9RDSZuaTsq20=
+
+Name: patch/system/framework/com.lge.app.floating.jar.p
+SHA1-Digest: LYXltU4BuVa6QOL9MBAjDSHgouM=
+
+Name: patch/system/lib/libbcc.sha1.so.p
+SHA1-Digest: 4gV3NG1vrAIyktdzuAptsXmiVa8=
+
+Name: patch/system/lib/libspeexwrapper.so.p
+SHA1-Digest: FVNZpRzD17PCsYuxr5dtEvE2mPk=
+
+Name: patch/system/framework/content.odex.p
+SHA1-Digest: LBXOc2ipjtQNh8cNMq7WroP8jp8=
+
+Name: patch/system/app/LGMemoWidget.odex.p
+SHA1-Digest: InYgpCIOTZ2PNsPBb92Bv5UO1zI=
+
+Name: patch/system/app/GoogleCalendarSyncAdapter.apk.p
+SHA1-Digest: MCkLJB32PZmZ2H9EjF0+/J6ZRPg=
+
+Name: patch/system/app/Stk.apk.p
+SHA1-Digest: 8995TtsBcWT8slTHfZyZ661Inro=
+
+Name: patch/system/framework/oem-services.jar.p
+SHA1-Digest: uwzkqCbN9Mehu1587c9FL+hYHyE=
+
+Name: patch/system/app/LGFOTA.odex.p
+SHA1-Digest: iInNy7yZFDM7Cdz5B5LBFw9Z6Ws=
+
+Name: system/lib/libpatts_engine_jni_api_ub.210030103.so
+SHA1-Digest: AOUK7hzU6nyf9x96GCktEVXzAV8=
+
+Name: patch/system/app/qcrilmsgtunnel.odex.p
+SHA1-Digest: OeRceeWvzWvx7Gr8SWB6702XE7E=
+
+Name: patch/system/priv-app/LGContacts.odex.p
+SHA1-Digest: 4WeCtPWNFDgoGmmE5GIgpnlRAkQ=
+
+Name: patch/system/app/PacProcessor.apk.p
+SHA1-Digest: BpiFyqVOg3bjtcs2MSOgeJBEg20=
+
+Name: patch/system/priv-app/DefaultContainerService.apk.p
+SHA1-Digest: YYGOq+6z4IUnv3kYhH4wOwElYLk=
+
+Name: patch/system/priv-app/LGEasyHome.odex.p
+SHA1-Digest: qlycm4Jh+QekNN23ldgjlAMNb1g=
+
+Name: patch/system/lib/modules/evbug.ko.p
+SHA1-Digest: 5Ambben1AvQwA3+kYeLnTtQfn4Q=
+
+Name: patch/system/lib/libpng.so.p
+SHA1-Digest: MxvQemaszUkMx0MBHuVZZVryC18=
+
+Name: patch/system/app/LGWirelessStorage.odex.p
+SHA1-Digest: 94djmn18YANhUdnz5wuthOF2IK8=
+
+Name: patch/system/priv-app/ConfigUpdater.apk.p
+SHA1-Digest: DEJWVXwrCLGor0LyrpEUEi0PfT4=
+
+Name: patch/system/lib/modules/mt2063.ko.p
+SHA1-Digest: F5CG0JnPy/c2V6bGGjhoTmqXuYk=
+
+Name: patch/system/lib/modules/reset_modem.ko.p
+SHA1-Digest: YB5lxpkqTA4criAkkiyj4SkmFSE=
+
+Name: patch/system/cust/overlay/app/com.android.contacts.apk.p
+SHA1-Digest: FrKZ5wwJVLVVPtyaRzrXf7L3I5o=
+
+Name: patch/system/framework/apache-xml.jar.p
+SHA1-Digest: 68zD4xV3tMWHkylnvuq6lwvk/Mg=
+
+Name: patch/system/framework/WfdCommon.jar.p
+SHA1-Digest: wGZOpf4ekbM7zEBsIRwsXdAjCq0=
+
+Name: patch/system/framework/okhttp.odex.p
+SHA1-Digest: pvmNnj8Vexfw74VGAyu/eCDGy+s=
+
+Name: patch/system/lib/libnetjni.so.p
+SHA1-Digest: XF4lc9cHK2GcKosAZ6zhslxZ50w=
+
+Name: patch/system/app/ELTTest.odex.p
+SHA1-Digest: qkEhmAP2c5UGF4vuofnl8EPn8Ws=
+
+Name: patch/system/app/FaceLock.apk.p
+SHA1-Digest: BNkjTtIWT6ky3LqBlthCwKd7crg=
+
+Name: patch/system/framework/core-libart.jar.p
+SHA1-Digest: c7vem2tr3LkhnBQzg9aLsErn+NA=
+
+Name: patch/system/cust/overlay/app/com.android.settings.apk.p
+SHA1-Digest: TmOlRFA012J0inrGsqft/7BD/GY=
+
+Name: patch/system/framework/wm.jar.p
+SHA1-Digest: 8IflWf4tIZ3NmrUhBsvN8TJr7jI=
+
+Name: patch/system/lib/libRS.so.p
+SHA1-Digest: UEqrA4WF5SY6PCOS/zwGR7bJDeA=
+
+Name: patch/system/cust/overlay/app/com.android.LGSetupWizard.apk.p
+SHA1-Digest: taaOM8JcWh2/iryfo+mGnE5OhLU=
+
+Name: patch/system/framework/com.android.nfc_extras.jar.p
+SHA1-Digest: QXbQSN3qZdnHW+Znf0Fa5U/3mYU=
+
+Name: patch/system/app/LGBluetooth4.apk.p
+SHA1-Digest: DLKGOhsD8WTfktbSIiy7FxUUKHM=
+
+Name: patch/system/priv-app/LGMusicWidget.odex.p
+SHA1-Digest: lPCz+/xqpOqYCN2EI8SB0HvLWZs=
+
+Name: patch/system/cust/overlay/app/com.lge.ime.apk.p
+SHA1-Digest: su5vut5pgTJOWHe3D6GFeP4Rco8=
+
+Name: patch/system/framework/services.odex.p
+SHA1-Digest: M/fJ2LSIDBd+VACgXBWHnNkU7p4=
+
+Name: patch/system/app/talkback.odex.p
+SHA1-Digest: lHFUlTKwvVZY+JfWgHPjN32sk+s=
+
+Name: patch/system/framework/javax.obex.jar.p
+SHA1-Digest: BfTebOhAkekojWsYE8e7tJyYkng=
+
+Name: patch/system/lib/libgcastv2_support.so.p
+SHA1-Digest: Y+BHE0m5hSFaGN6iuJ/D2ny1Vkc=
+
+Name: patch/system/lib/libmdnssd.so.p
+SHA1-Digest: /Fx9nNSrMS0fpteGnn4h2XuGgpE=
+
+Name: patch/system/priv-app/Phonesky.apk.p
+SHA1-Digest: Lxv4VUXh+HXS/cXhkHIyQSSqLCE=
+
+Name: patch/system/priv-app/LGMusic.odex.p
+SHA1-Digest: yCCDXkgDhcPOeDHhYlz63vNdpkU=
+
+Name: patch/system/framework/com.lge.bluetooth.jar.p
+SHA1-Digest: WlZESo8U3S1pyZqVfldhmI6ZItQ=
+
+Name: patch/system/priv-app/GoogleBackupTransport.odex.p
+SHA1-Digest: ww7WGHLm33JY0NN/t693mmbr3Kk=
+
+Name: patch/system/priv-app/LGVideos.odex.p
+SHA1-Digest: TQyVPQKQfoRvtKO8Dfi/6W8VaYI=
+
+Name: patch/system/bin/debuggerd.p
+SHA1-Digest: YyPnMu6X3I9yyCQSyEX1TJ/Jc30=
+
+Name: patch/system/framework/services.jar.p
+SHA1-Digest: 6Ewdcnx/RERYLuVhCHoTkIvV/fA=
+
+Name: patch/system/framework/com.lge.pmext.jar.p
+SHA1-Digest: p2VeK4To57aRJDDl1fOMEoLlAZs=
+
+Name: patch/system/priv-app/GooglePartnerSetup.apk.p
+SHA1-Digest: f4VRAhcqXm3c0HgBejo4gaRg/bo=
+
+Name: patch/system/cust/overlay/app/com.lge.bnr.apk.p
+SHA1-Digest: 7+9CDquJwFnXA9FBSxvIF0Mr7aI=
+
+Name: patch/system/app/Videos.odex.p
+SHA1-Digest: 2oYoP8+QX3oRF0cqqUVKB6uJy+M=
+
+Name: patch/system/priv-app/FusedLocation.odex.p
+SHA1-Digest: xIo5HC0b8y3JDsiaEvVJeoSahIQ=
+
+Name: patch/system/priv-app/GoogleFeedback.odex.p
+SHA1-Digest: Pj3zIQJAZQx8QO6527SC41xcWnQ=
+
+Name: patch/system/framework/javax.obex.odex.p
+SHA1-Digest: v+iG9El7db1mwEDHzbUFvfNioPo=
+
+Name: patch/system/lib/libwebrtc_audio_preprocessing.so.p
+SHA1-Digest: kj1QDrNePEYIYaKjX0I8xeFZE/I=
+
+Name: patch/system/priv-app/LGNLPService.odex.p
+SHA1-Digest: OLWsh9XQL9nrjZo9Eur68/UfQmQ=
+
+Name: patch/system/priv-app/LGInstallService.odex.p
+SHA1-Digest: YB6wDNwlqR5pcqeQCEyCFD5+22Y=
+
+Name: patch/system/framework/oem-services.odex.p
+SHA1-Digest: jisz46BSvGkiHp4KK850hGhzRIQ=
+
+Name: patch/system/app/HTMLViewer.apk.p
+SHA1-Digest: iun6s2De0SPNVZUPX0Z9HNgegC8=
+
+Name: patch/system/lib/modules/tda18212.ko.p
+SHA1-Digest: pOz3kCRvROHuhBCN6eit32352r8=
+
+Name: patch/system/framework/org.codeaurora.Performance.odex.p
+SHA1-Digest: EIlngkz0ZtUsmnKCK0fEVUOAvvg=
+
+Name: patch/system/priv-app/ProxyHandler.apk.p
+SHA1-Digest: HsFtzIX0a3Ihmj6Wdj5YN1W6B6k=
+
+Name: patch/system/framework/core-libart.odex.p
+SHA1-Digest: 4NO5fdGB7uQUt750GdgKbNBUCV0=
+
+Name: patch/system/lib/libssl.so.p
+SHA1-Digest: Tuyup6kjWgIUETwud3GE6IbgNqk=
+
+Name: patch/system/cust/overlay/app/com.lge.eula.apk.p
+SHA1-Digest: Igr67cWqWhzlMSmwXlPa1qB79ao=
+
+Name: patch/system/framework/qcrilhook.jar.p
+SHA1-Digest: CbJlm9FMQqIa639p1D1DVISYk4w=
+
+Name: patch/system/priv-app/LGSettingsAccessibility.odex.p
+SHA1-Digest: c8fr2zcUgujcrbPOoSCGVvVIE3c=
+
+Name: patch/system/app/SprintHiddenMenu.apk.p
+SHA1-Digest: w2fVIsCqhxfyfCGvYFXp3GYkR2c=
+
+Name: patch/system/app/WVTest.odex.p
+SHA1-Digest: GpLD8wKlTKzI5rAXggdjxq+Aw88=
+
+Name: patch/system/app/Stk.odex.p
+SHA1-Digest: ImQEE0+gmsWefCzHOaalYqNad5E=
+
+Name: patch/system/priv-app/LGDownloadProviderUi.odex.p
+SHA1-Digest: pqyzPv3HX+xYM3iq1vgUJx8L7vA=
+
+Name: patch/system/priv-app/LGHome.odex.p
+SHA1-Digest: 7Y4VegJe6wj5WX33iFmJ2Ig1l7o=
+
+Name: patch/system/vendor/lib/libmmcamera2_iface_modules.so.p
+SHA1-Digest: B/qf877/ViPlZ1BIBJgQrrLSdcQ=
+
+Name: patch/system/priv-app/LGVoiceCommandService.odex.p
+SHA1-Digest: nQGS6s44vbQdFwBIA81OhuZ9PUA=
+
+Name: patch/system/priv-app/DefaultContainerService.odex.p
+SHA1-Digest: nW8rWInZ4eAKLp/F66LqocLgwo8=
+
+Name: patch/system/lib/libcrashreporter.so.p
+SHA1-Digest: /YHbkCbtSNj7YK8VQYnsDkBKdf8=
+
+Name: patch/system/framework/android.test.runner.odex.p
+SHA1-Digest: LL7NvPlwRAmvi+ClDq0ma4x+Q5E=
+
+Name: system/lib/libconscrypt_gmscore_jni.so
+SHA1-Digest: o3CcDF59bT7wkmGGpExAsgViM/g=
+
+Name: patch/system/priv-app/WallpaperCropper.apk.p
+SHA1-Digest: ZxMhg+PKx8Fd/5t0tvzdbZZ/gw4=
+
+Name: patch/system/lib/modules/xc4000.ko.p
+SHA1-Digest: k9+XWHG95l1xIXZHVFAjHFwRR94=
+
+Name: patch/system/priv-app/LGEasyHome.apk.p
+SHA1-Digest: 6Xmx6dD6SVxA4Palu/Y8EGQGygU=
+
+Name: patch/system/app/com.qualcomm.location.odex.p
+SHA1-Digest: /UD8WIoPIeyYVktvp21NHVX2rlo=
+
+Name: patch/system/priv-app/LGBrowser.odex.p
+SHA1-Digest: a/+9IyLsZuIZxUkTW++XH5VfdOw=
+
+Name: patch/system/app/Gmail2.apk.p
+SHA1-Digest: MpgG0mL9pkaAhBOmBb9E+dENSUY=
+
+Name: patch/system/framework/conscrypt.odex.p
+SHA1-Digest: xRd4m8NhGXTcOFk8vQV2ThnlQyw=
+
+Name: patch/system/framework/settings.odex.p
+SHA1-Digest: KO5JMDZhnhEYBjYjS6CGS5Vmp0Q=
+
+Name: system/lib/libocrclient.so
+SHA1-Digest: m6NUiF6t8O0wyFZA1V0vKWiy/AQ=
+
+Name: patch/system/framework/bouncycastle.jar.p
+SHA1-Digest: qsdhOw3xOGlYxWP5gi4/oW9bAS4=
+
+Name: patch/system/framework/com.lge.fmradio.odex.p
+SHA1-Digest: Ln1jaTVyZkZfEgz2N4S3KYj21f8=
+
+Name: patch/system/app/com.lge.shutdownmonitor.apk.p
+SHA1-Digest: b3NAM4zeDAqEsKLLvjYwcXNiNzU=
+
+Name: patch/system/lib/modules/ansi_cprng.ko.p
+SHA1-Digest: 49mWY6gGlK9gxbBcEQ5kON4q4/o=
+
+Name: patch/system/app/DocumentsUI.odex.p
+SHA1-Digest: fwkGQE0OWeQbgZYKhwZvEBgYwE0=
+
+Name: patch/system/lib/libgoogle_recognizer_jni_l.so.p
+SHA1-Digest: fDwGxA4XjxfayJ689ZlMfCm3Vzc=
+
+Name: patch/system/framework/voip-common.odex.p
+SHA1-Digest: ApcSPzQiiZjyoQZ/YBoXazzsW6o=
+
+Name: patch/system/framework/com.lge.wifi.jar.p
+SHA1-Digest: 75dbTPTFxcnD/Dfukho3SlMzT6M=
+
+Name: patch/system/lib/libcrypto.so.p
+SHA1-Digest: dbbNW82GJKJn/d+GSZS4CJ4XLR8=
+
+Name: patch/system/priv-app/LGSystemUI_Provider.odex.p
+SHA1-Digest: CBXlDveO2GD8ENHoAJYrr5sginY=
+
+Name: patch/system/framework/core.odex.p
+SHA1-Digest: fFwBSnaLCb7G0aKHnk8dc9qENRA=
+
+Name: patch/system/priv-app/GooglePartnerSetup.odex.p
+SHA1-Digest: VSCmfDU7Z2nFvPtyXoNLN5dy4f4=
+
+Name: patch/system/lib/modules/mckernelapi.ko.p
+SHA1-Digest: 0wnGAIN38bM9fci4a7uhOoeXDP0=
+
+Name: patch/system/app/LGWeatherTheme.apk.p
+SHA1-Digest: 2zMS0XnrQvPTGP7fMpRWwnZUan8=
+
+Name: patch/system/priv-app/LGDownloadProvider.odex.p
+SHA1-Digest: LO0kj63I30f3/GD029PkHpwmbec=
+
+Name: patch/system/lib/modules/tea5761.ko.p
+SHA1-Digest: ZWktgt7AEjOke/1QwlnRybX2Ke0=
+
+Name: patch/system/framework/qcnvitems.odex.p
+SHA1-Digest: stR6WcZNc5Q62YO522n+nm9CESY=
+
+Name: patch/system/priv-app/Velvet.odex.p
+SHA1-Digest: Gt1BnfFGSSi5OUmlnFgYgwV43co=
+
+Name: patch/system/framework/com.android.location.provider.jar.p
+SHA1-Digest: U3Xeid8zutoOVnKrwKLmcuWSOvc=
+
+Name: patch/system/framework/WfdCommon.odex.p
+SHA1-Digest: jNoHmaB4fcB+Mo5649Xwb+DJapU=
+
+Name: patch/system/app/LGEIME_THEME_BLACK.odex.p
+SHA1-Digest: 3Lnqr7+DqjsFFMXnahcorqYNj8E=
+
+Name: patch/system/app/PackageInstaller.apk.p
+SHA1-Digest: RIG6Y0/ojyRvvy402XUTTVZ2wvI=
+
+Name: patch/system/lib/libphotoeditor_native.so.p
+SHA1-Digest: o3FyHLwg1kQ3xx//qGV0bD5LSHI=
+
+Name: patch/system/priv-app/GoogleServicesFramework.odex.p
+SHA1-Digest: IrPhjDwgI4Sv2aw6z5BZTd2BNLQ=
+
+Name: patch/system/framework/monkey.odex.p
+SHA1-Digest: D8VncpWMbWkBZOsmT6XGLgqx1As=
+
+Name: patch/system/priv-app/ProxyHandler.odex.p
+SHA1-Digest: 3KZddOoLK6kIC/HkV7lUsUuMFWA=
+
+Name: patch/system/etc/firmware/venus.b01.p
+SHA1-Digest: PI05FUotm2K2Sn7LMzLqZVVAGU4=
+
+Name: patch/system/lib/libhtmlwebcore.so.p
+SHA1-Digest: eUcPjBTTDwYZyGNxKLWjt2iU+jc=
+
+Name: patch/system/priv-app/LGEmail.odex.p
+SHA1-Digest: IBdfnkKPdlno31IsnqjDyswJSrQ=
+
+Name: patch/system/framework/qcom.fmradio.jar.p
+SHA1-Digest: JEpzM4QzQjumQFvpFSyAzUUqTq0=
+
+Name: patch/system/priv-app/LGSettings.apk.p
+SHA1-Digest: 5TJUbgIOecrCn7LPvPslAu0bzWo=
+
+Name: patch/system/etc/firmware/venus.mbn.p
+SHA1-Digest: HTBjYm50Z1tIXpsyLUOCTzr/1Tw=
+
+Name: patch/system/priv-app/TagGoogle.apk.p
+SHA1-Digest: FmvOb61pWaGuwuHtIvcR+apK2PA=
+
+Name: patch/system/priv-app/LGGallery.odex.p
+SHA1-Digest: se2LAL3w8L1Akn2ws5LrJFn6Isw=
+
+Name: patch/system/framework/com.qcom.bluetooth.jar.p
+SHA1-Digest: /xhfePj0xQtgHKlZPJ6Y/3oxeIs=
+
+Name: patch/system/lib/libchromium_net.so.p
+SHA1-Digest: HbzQRx7uDJhErCHFu/PyV3aHpec=
+
+Name: patch/system/priv-app/ExternalStorageProvider.odex.p
+SHA1-Digest: oxY6lQ2C6KPq8YDxpyYgT/y6UJc=
+
+Name: patch/system/framework/framework.jar.p
+SHA1-Digest: CzsEwaJeIYg0ZakLQWUzNTaJzUA=
+
+Name: patch/system/priv-app/LGLW_MultiPhoto.odex.p
+SHA1-Digest: 9+PB2JOZSxUqsJqt4+XTKRQ3e6I=
+
+Name: patch/system/framework/com.lge.zdi.interaction.odex.p
+SHA1-Digest: UqCHoSskvX9JJBNjml+UpF/66Pw=
+
+Name: patch/system/priv-app/ConfigUpdater.odex.p
+SHA1-Digest: DuSRv2u/59VPcOWc2An4QxK0GfU=
+
+Name: patch/system/framework/com.lge.music.collector.jar.p
+SHA1-Digest: emGf0pDbJFBxbmrv6C5PuuM/QLg=
+
+Name: patch/system/framework/telephony-common.odex.p
+SHA1-Digest: jjNGfCsRBx65wVS2D+Fb1Z13WZE=
+
+Name: system/lib/librectifier.so
+SHA1-Digest: 8OGpaAVyO92nmyvqjqGRxZ974co=
+
+Name: patch/system/priv-app/TagGoogle.odex.p
+SHA1-Digest: tC1fY7ye9xk8fcGKSPz4t71DJto=
+
+Name: patch/system/vendor/itson/itson-bootstrapper.sh.p
+SHA1-Digest: cWytulfQpXJ197RRzmN0eWNFmWU=
+
+Name: patch/system/priv-app/PrefAct.odex.p
+SHA1-Digest: RVcMtGA/70v5bEhUPsqN+Vx7FGg=
+
+Name: patch/system/framework/com.android.media.remotedisplay.odex.p
+SHA1-Digest: +0tm6xzhh616nF8ia8NlWVzQ7dc=
+
+Name: system/lib/libcronet.so
+SHA1-Digest: rrA+h7nlWHkwcm8b+B81tKg/bLc=
+
+Name: patch/system/app/LGWeatherTheme.odex.p
+SHA1-Digest: Q34jBoCtigrqcXZZYlOUKlyEOZw=
+
+Name: patch/system/lib/libskia.so.p
+SHA1-Digest: TMGIxYYJ8YGXvqpfBmpiSOy98Qw=
+
+Name: patch/system/app/PlusOne.apk.p
+SHA1-Digest: K7L395Rl+SucMSNDqxPrfR+ImWg=
+
+Name: patch/system/priv-app/LGBrowser.apk.p
+SHA1-Digest: pnvtEaZ5G6DPHHmoHgDpL95FtLs=
+
+Name: patch/system/lib/libpac.so.p
+SHA1-Digest: 5BjfBWyayzmzfBB/1cjHl5TJf40=
+
+Name: patch/system/app/Videos.apk.p
+SHA1-Digest: jKhpveIZlFl8eSj4gu3lB28ZYKs=
+
+Name: patch/system/framework/com.lge.sui.odex.p
+SHA1-Digest: MXTiX+I+usIElk+lqDaMMlAHifY=
+
+Name: patch/system/priv-app/LGUpdateCenter.odex.p
+SHA1-Digest: aqYO0C3uH2W+TW4KLPyoINpCb9c=
+
+Name: patch/system/app/com.lge.shutdownmonitor.odex.p
+SHA1-Digest: Z54khemfj7d7uYrfUmpca+S/Qt8=
+
+Name: patch/system/framework/bu.odex.p
+SHA1-Digest: 0BnJAq0Y9u0r2UEwG+Phkn76oDw=
+
+Name: patch/system/app/PlayGames.odex.p
+SHA1-Digest: KCF9KiVQKQUYXD425m49MA5UbrQ=
+
+Name: patch/system/lib/libatd_common.so.p
+SHA1-Digest: KfS3h/YI/swzZ7AGe9soirYMly4=
+
+Name: patch/system/framework/android.policy.jar.p
+SHA1-Digest: /dn3+fKJdmOW4mx5iuiCi9x5+Hc=
+
+Name: patch/system/priv-app/VpnDialogs.odex.p
+SHA1-Digest: ZHpIuMI6q7nxdDcghnT0X/Pqcqg=
+
+Name: patch/system/lib/modules/tda9887.ko.p
+SHA1-Digest: gxIH5oIHFLYRFOxNj29qDR7J6yY=
+
+Name: patch/system/cust/overlay/app/com.lge.qremote.apk.p
+SHA1-Digest: rlFK+gJ7/3Jn84fpmegPB9Ehwys=
+
+Name: patch/system/lib/libRSDriver.so.p
+SHA1-Digest: meQuDb4UHoAU7caZX+IAqhVwxnw=
+
+Name: patch/system/framework/am.jar.p
+SHA1-Digest: AdC2Px97pqH27DmM4FG6RNSALYs=
+
+Name: patch/system/priv-app/HomeSelector.odex.p
+SHA1-Digest: mTrz9JdI9pvD3FH9iOWZ9QEjcIk=
+
+Name: patch/system/app/HiddenSIMUnlockMenu.odex.p
+SHA1-Digest: LFyQz3NBm2axFVcn+GX7+g5Brrg=
+
+Name: patch/system/app/GnssTest.apk.p
+SHA1-Digest: DSCfkNGCzxE/PQA08IiWbCNVFjc=
+
+Name: patch/system/etc/security/otacerts.zip.p
+SHA1-Digest: EZ7R261bBEp6f/+Gplq+MJ9ojQs=
+
+Name: patch/system/priv-app/ExternalStorageProvider.apk.p
+SHA1-Digest: G9Q4SdAi0kqCe2WHT91XD5Q+xuk=
+
+Name: patch/system/lib/modules/tuner-simple.ko.p
+SHA1-Digest: mH0JB2GOa7435mUB2odFa5v76Rc=
+
+Name: patch/system/app/LGEIME.odex.p
+SHA1-Digest: ZKgIpm+NyNaDSvAU87stLDeWU/E=
+
+Name: patch/system/priv-app/LGLiveWallpapersPicker.odex.p
+SHA1-Digest: +V1UeL+YoF8yAgcB5fgkgYWiFrc=
+
+Name: patch/system/lib/libAppDataSearch.so.p
+SHA1-Digest: gvAgu4SaL0rd3zBtLNkW9Qt1yRg=
+
+Name: patch/system/framework/com.lge.bluetooth.odex.p
+SHA1-Digest: 5hQnr+A6N5zbXuDv84R2QQcUJ/o=
+
+Name: patch/system/priv-app/LGSettings.odex.p
+SHA1-Digest: 0CFlG9ihxWrmpzp28O2aiAe7VOo=
+
+Name: patch/system/cust/overlay/app/com.lge.music.apk.p
+SHA1-Digest: 9J6ai3BePK9lcxJttcH0AOSfCSc=
+
+Name: patch/system/vendor/lib/libmmcamera2_isp_modules.so.p
+SHA1-Digest: zfSUAih0mAV6lGBYtazkDrQT47Q=
+
+Name: patch/system/framework/com.uei.control.jar.p
+SHA1-Digest: TF0GjFleHck9jIVQIOdNQVFWVFs=
+
+Name: patch/system/priv-app/Phonesky.odex.p
+SHA1-Digest: AcLCHWQabO3jOKPtBwv1i5yNeK0=
+
+Name: patch/system/framework/framework2.jar.p
+SHA1-Digest: YYsfgFQCoVQZKhVqWN7O8RWDkEs=
+
+Name: patch/system/lib/modules/gspca_main.ko.p
+SHA1-Digest: W2Fe+vm/SFxmOyBe5vIgHcmsryM=
+
+Name: patch/system/lib/modules/mt20xx.ko.p
+SHA1-Digest: h+9P3kTeWk6zuZhQWkOpBfZ6hIo=
+
+Name: system/lib/modules/itson_module1-4.4.2.ko
+SHA1-Digest: jW9nQT415cAhdGhG4yOWLzAkKe4=
+
+Name: patch/system/priv-app/LGMediaProvider.odex.p
+SHA1-Digest: 6x9FWdgarb7NG0GfgRsjPWMy+qU=
+
+Name: patch/system/lib/modules/mt2060.ko.p
+SHA1-Digest: pqU3kXX/oryPrT0AG4VPh9DosaM=
+
+Name: patch/system/lib/modules/gpio_output.ko.p
+SHA1-Digest: aWtIE+B6T9sL6MiYb3UafK4N0rc=
+
+Name: patch/system/framework/uiautomator.jar.p
+SHA1-Digest: QzkZoXaeLWCwmKzyWzXflVAvn5Q=
+
+Name: patch/system/lib/modules/tda827x.ko.p
+SHA1-Digest: sIsbJDj2r/nRI9bDpzjVtZQWGbk=
+
+Name: patch/system/app/Street.odex.p
+SHA1-Digest: fRSuAheIe8VTOQLVwvoB0sVPhrk=
+
+Name: system/lib/modules/itson_module2-4.4.2.ko
+SHA1-Digest: J6MZhn0LMFhOgKN+BUiLvZpISpY=
+
+Name: patch/system/framework/wm.odex.p
+SHA1-Digest: EeIa3O/7Xq2V8Dq6tODoaJVfnBw=
+
+Name: patch/system/framework/com.qcom.bluetooth.odex.p
+SHA1-Digest: 9zu04EKw2PRcgR0NNCfcsM/RIZs=
+
+Name: patch/system/lib/libcompiler_rt.so.p
+SHA1-Digest: XjsSSTP1QTklXu3GSUvSg2xsYKQ=
+
+Name: patch/system/priv-app/LGContactsProvider.odex.p
+SHA1-Digest: 8dve0CyLSDSX0tgDb+DgADK+ddQ=
+
+Name: patch/system/vendor/lib/liboemcamera.so.p
+SHA1-Digest: 4KaqIMcgBYtsqont/ezsXgQkRPY=
+
+Name: patch/system/app/CertInstaller.apk.p
+SHA1-Digest: ddO4m8v57DmWE8r7SoLU6NzZgqA=
+
+Name: patch/boot.img
+SHA1-Digest: cCS3zxc30lEZW14lGny264asTY8=
+
+Name: patch/system/priv-app/ItsOnUID.odex.p
+SHA1-Digest: a0QLp2HCDgAflDqcQXsPnZIn7UM=
+
+Name: patch/system/framework/input.odex.p
+SHA1-Digest: kEG6qqogGoRqpjnH/55BwqNq9/I=
+
+Name: patch/system/app/Hangouts.odex.p
+SHA1-Digest: CV+z6Psn5+Tv1lcxchSWS1NK24w=
+
+Name: patch/system/cust/overlay/app/com.android.gallery3d.apk.p
+SHA1-Digest: L8ZHg6eiluJgzSmhj1OdefyacsU=
+
+Name: patch/system/cust/overlay/app/com.lge.videotool.apk.p
+SHA1-Digest: +EiC+/8UwL9O7Xp4+OuPkCs4zBo=
+
+Name: patch/system/framework/com.lge.emoji.odex.p
+SHA1-Digest: WQTv/Owz668bW5855kLKzeF+xHE=
+
+Name: patch/system/cust/overlay/app/com.lge.wireless_storage.apk.p
+SHA1-Digest: tDJZDW7X7/FMciGwu9cNwdZvKko=
+
+Name: patch/system/framework/lge-res.apk.p
+SHA1-Digest: PnOgyRnfI8dZVfsPKHNaawMC6Ts=
+
+Name: patch/system/priv-app/LGSystemUI.odex.p
+SHA1-Digest: WG+JXzmBUQrHBrIR1frwiSKw7Nk=
+
+Name: patch/system/lib/modules/dma_test.ko.p
+SHA1-Digest: BijjfChwukvyvbSegNm5VKjfiUw=
+
+Name: patch/system/app/GoogleDrive.odex.p
+SHA1-Digest: SgKMyV81X5E3cFaxCc0D1MvWPmo=
+
+Name: patch/system/lib/modules/test-iosched.ko.p
+SHA1-Digest: qcCR9P//VOx3G8CT4Skx3e5RUmo=
+
+Name: patch/system/framework/ime.odex.p
+SHA1-Digest: MLUPxdjJ+cVeDL13aET8+RDg5II=
+
+Name: patch/system/priv-app/LGMemo.odex.p
+SHA1-Digest: p4I6qOIG3A9WlE8puM0LSEZKFzw=
+
+Name: patch/system/build.prop.p
+SHA1-Digest: GLBwwyQNX7I5XMVeRm4kE9TraM4=
+
+Name: patch/system/priv-app/Shell.odex.p
+SHA1-Digest: Pm+MIT+F29Ms6ArptSngDAQbi84=
+
+Name: patch/system/cust/overlay/app/com.lge.sizechangable.memo.apk.p
+SHA1-Digest: dTgP0uL5kszi0AKP9ZFqxw6kUOE=
+
+Name: patch/system/app/SPR_Skyfire_Observer.odex.p
+SHA1-Digest: r+v4cNdhYdemH8iJS+nNN1h71zE=
+
+Name: recovery/recovery.img
+SHA1-Digest: tky3RBBdbFpPvJfPSt/e8KhNNlU=
+
+Name: system/lib/libgmscore.so
+SHA1-Digest: enShDzug+2SlW6Jg8yQbbywMx8s=
+
+Name: patch/system/framework/apache-xml.odex.p
+SHA1-Digest: RzrkEC/5nbSTKzXT8dnaEfFflYQ=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: oGWZDPIkx69/BwbLrPxUwFo9FV8=
+
+Name: patch/system/framework/com.lge.app.floating.res.odex.p
+SHA1-Digest: l00KLAtRUWPVUW38652fsSdBA3g=
+
+Name: patch/system/app/PackageInstaller.odex.p
+SHA1-Digest: Yd8jim9j7/rf67qHtLp7A5YmW28=
+
+Name: patch/system/cust/overlay/app/com.lge.voicerecorder.apk.p
+SHA1-Digest: Qr32YOA4WMmWsH2ffip2sJMoNgM=
+
+Name: patch/system/priv-app/SprintExtension_signed.odex.p
+SHA1-Digest: gBicAvJXr81U52vbwna7PyTLKpU=
+
+Name: patch/system/app/Swype.odex.p
+SHA1-Digest: QO6VmNE5Oe/hA3+Ny30I6AZue90=
+
+Name: system/framework/conscrypt.jar
+SHA1-Digest: T+WHQcO0IJvcDgrKxP5lR5E1vFw=
+
+Name: patch/system/framework/lge-res.odex.p
+SHA1-Digest: gnEMc2pyrIA4nkoC96Y+h31N42Q=
+
+Name: patch/system/bin/mdnsd.p
+SHA1-Digest: ui37rL91c7rfwBwXZBctp7SPwv4=
+
+Name: patch/system/lib/modules/scsi_wait_scan.ko.p
+SHA1-Digest: jFQupNOUELxsN1k5Fm5z5ryqtj4=
+
+Name: patch/system/lib/modules/mxl5007t.ko.p
+SHA1-Digest: NVslBgGHxKFSY6Pk75tZE+l4Ivs=
+
+Name: patch/system/priv-app/LGQVoice.odex.p
+SHA1-Digest: EIxRU/HIE5hcXOaKjLxi8Sgdio8=
+
+Name: patch/system/framework/webviewchromium.odex.p
+SHA1-Digest: taMJmJLXb4JWBa+QU+tFV1p+4J4=
+
+Name: patch/system/priv-app/LGVoiceRecorder.odex.p
+SHA1-Digest: x9AU3sQ5RgBVhXxHT9olCWO9iaU=
+
+Name: patch/system/app/LgNfc.apk.p
+SHA1-Digest: kAFTsBL1U0gCIgjknIGl0syD7ls=
+
+Name: patch/system/app/GnssAirTest.apk.p
+SHA1-Digest: P3871tHoL+b8ZmP258LfTakqOt8=
+
+Name: patch/system/cust/overlay/app/com.lge.QuickClip.apk.p
+SHA1-Digest: SgFeWWqINPvXaArxHsKZKM29yuY=
+
+Name: patch/system/app/LGSystemServer.apk.p
+SHA1-Digest: i1Gcdd4sFKLpRbJUiNJvVj2kVfc=
+
+Name: patch/system/app/LatinIME.apk.p
+SHA1-Digest: 5Xa2uiSUQrzmanacXPd6ziaSzHo=
+
+Name: patch/system/framework/am.odex.p
+SHA1-Digest: LC6BpYyvLmQ0+c00loMVY2B3YQs=
+
+Name: patch/system/framework/qcnvitems.jar.p
+SHA1-Digest: inTThxhyXYneTDmNdZ9fVPRQ3EI=
+
+Name: patch/system/priv-app/LGFileManager.odex.p
+SHA1-Digest: DKMpe9tDRKPwDiQO4xevZg141Ho=
+
+Name: patch/system/app/SmartShare.odex.p
+SHA1-Digest: VSw/2gxX2rZnVbPkYsuiF1jyxZo=
+
+Name: patch/system/priv-app/BackupRestoreConfirmation.apk.p
+SHA1-Digest: 3/wFTli7Im01wD4ivvSPQxM4kIw=
+
+Name: patch/system/priv-app/LGSettingsProvider.odex.p
+SHA1-Digest: hkRr7YkXMgFSehgBWHRbUFE+fhk=
+
+Name: patch/system/app/LgNfc.odex.p
+SHA1-Digest: FOMNZkebufGz68og+NYgq5pLUPk=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: 6x5MsppX6C4NfH2fmJ1pkgQlA4k=
+
+Name: patch/system/app/Hangouts.apk.p
+SHA1-Digest: fXlHV4i8irRnnSFqw32XpuKWKx0=
+
+Name: patch/system/framework/bmgr.odex.p
+SHA1-Digest: W1LpCXq9+cnZkoAkffA/8mkipoI=
+
+Name: patch/system/lib/modules/mt2266.ko.p
+SHA1-Digest: Mhg9UmDrW/fL1JJbJqa+s4yI9n0=
+
+Name: patch/system/lib/modules/mxl5005s.ko.p
+SHA1-Digest: UgnbGLn6GU3CGMnw9haS4xsRbiQ=
+
+Name: patch/system/framework/com.lge.music.collector.odex.p
+SHA1-Digest: qtPRHc3tqnkUlzmsybLoYU/a8lw=
+
+Name: patch/system/app/SPR_Skyfire_Toolbar.odex.p
+SHA1-Digest: yDyWd75XfTrY/gaGaCiAcYM94sc=
+
+Name: patch/system/priv-app/LGAlarmClock.odex.p
+SHA1-Digest: ltXIjSLwutHLNzoHU/jqtPxuI9I=
+
+Name: patch/system/lib/modules/msm-buspm-dev.ko.p
+SHA1-Digest: 45nTgJ9LDAqyS7GBea5SVp8ZIxw=
+
+Name: patch/system/framework/qcrilhook.odex.p
+SHA1-Digest: uw/doFp2sZTCSRJs1ydtxCQLXs8=
+
+Name: patch/system/framework/com.google.widevine.software.drm.jar.p
+SHA1-Digest: udqr6MWNHa/jX3dYifiu3RrRg5U=
+
+Name: patch/system/app/LGPhotoAlbumWidget.odex.p
+SHA1-Digest: 22oLAXKIv/bm06QCXgcwYzWYmwI=
+
+Name: patch/system/app/HTMLViewer.odex.p
+SHA1-Digest: Shz5+m4diKEEgL7TdqUNEE+D8h8=
+
+Name: patch/system/cust/overlay/app/com.lge.filemanager.apk.p
+SHA1-Digest: hHwpjScpOH1WaIxWc3ejL6pqVKs=
+
+Name: patch/system/app/ChromeWithBrowser.apk.p
+SHA1-Digest: BpcbgBrsMzmHVMZi2+CDqfVo1Ss=
+
+Name: patch/system/priv-app/GoogleFeedback.apk.p
+SHA1-Digest: Pb2yc+GqnKAhe1lBqIg433MDpR4=
+
+Name: patch/system/framework/settings.jar.p
+SHA1-Digest: 3FYcBm8jgxHVuWOUTzQ7bM4O6pU=
+
+Name: patch/system/framework/com.lge.mdm.jar.p
+SHA1-Digest: H4x3kkfL06C7GF1dtaaracEAdyw=
+
+Name: patch/system/framework/webviewchromium.jar.p
+SHA1-Digest: 3eKAVivCe6mWZl78ebS5KDIDLMI=
+
+Name: patch/system/framework/mms-common.odex.p
+SHA1-Digest: EhQqZFnqWM/0+FSv/ZiCwWouUyQ=
+
+Name: patch/system/app/PermissionToAccessLgeApi.odex.p
+SHA1-Digest: 6zQfo0V2aCi/NmxMfUgU1NKvBlY=
+
+Name: patch/system/app/HiddenSIMUnlockMenu.apk.p
+SHA1-Digest: hFemlw4bxG0oYTpaabDDFMivvZQ=
+
+Name: patch/system/app/SprintHiddenMenu.odex.p
+SHA1-Digest: cY4S5Rul42xqEhczLFe5DOxmBBU=
+
+Name: patch/system/priv-app/LGTeleService.apk.p
+SHA1-Digest: jc+SEwqGNd8pXOOvAFyHxGfI0Jo=
+
+Name: patch/system/cust/overlay/app/com.lge.easyhome.apk.p
+SHA1-Digest: FqAzt0kri8riNgCH8GvUcS3eQe8=
+
+Name: patch/system/app/GoogleContactsSyncAdapter.odex.p
+SHA1-Digest: VFkPLt5a+qP+LX3Gjhdzct38Dw0=
+
+Name: patch/system/lib/modules/gpio_axis.ko.p
+SHA1-Digest: We3u6NUpsF9GHpCqjKMiOifV/ZA=
+
+Name: patch/system/lib/libRSCpuRef.so.p
+SHA1-Digest: EIHAni7vyNG/dmHBH4FYz8LSdUA=
+
+Name: patch/system/lib/libwebp_android.so.p
+SHA1-Digest: zJexw0o96EFV0I+GNBVXKItqDpg=
+
+Name: patch/system/framework/framework-res.apk.p
+SHA1-Digest: AVY3izhNJL79LYB+Opy54t/GdiI=
+
+Name: patch/system/framework/com.lge.systemui.jar.p
+SHA1-Digest: 3vK9yNqWvQJZ0blf6pQTnT8+14c=
+
+Name: patch/system/app/Magazines.odex.p
+SHA1-Digest: uWXiptUm0PKzo0yJwIUr7aWcbY4=
+
+Name: patch/system/priv-app/FusedLocation.apk.p
+SHA1-Digest: dHq5E34KeuLJwWO2jPpcKvl0EQs=
+
+Name: patch/system/framework/com.android.location.provider.odex.p
+SHA1-Digest: dwwZU4hnKUVindMSFtlpwYkFL1s=
+
+Name: patch/system/framework/lgsvcitems.odex.p
+SHA1-Digest: an+RdJgPAEAiSf6MwRTdgzc8ZNE=
+
+Name: patch/system/app/LGLockScreenSettings.odex.p
+SHA1-Digest: eG1byg0OfTwtLrjliEIzoARBkzI=
+
+Name: patch/system/framework/android.policy.odex.p
+SHA1-Digest: Cyw68Ru2LCkNSjD546IT1OmhHhw=
+
+Name: patch/system/cust/overlay/app/com.lge.lmk.apk.p
+SHA1-Digest: JIZjnjvf3qDL9/m2FFQHPpeVZ4k=
+
+Name: patch/system/app/LGUSTelephonyProvider.odex.p
+SHA1-Digest: nUTI3rR+lZonb33kxN0ydbKuRnU=
+
+Name: patch/system/app/UserDictionaryProvider.odex.p
+SHA1-Digest: QAwyCwNNajX5aGnfUNjVLCvFaIo=
+
+Name: patch/system/cust/overlay/app/com.lge.launcher2.apk.p
+SHA1-Digest: oWV7AMoYeasmb7hyDtk2WF5YaUg=
+
+Name: patch/system/priv-app/Shell.apk.p
+SHA1-Digest: 0Q6urNRI1YQhXUy7mSlohxNnazc=
+
+Name: patch/system/vendor/lib/libmmcamera2_sensor_modules.so.p
+SHA1-Digest: k06+mgeKGStEH0WgBY/yfCFjRcw=
+
+Name: patch/system/priv-app/LGTasks.odex.p
+SHA1-Digest: M6C74GBecny6E4wNYFUgZM3E+44=
+
+Name: patch/system/lib/libvcdecoder_jni.so.p
+SHA1-Digest: VQpI+xLoEepyNysSSY0U5fC0dBk=
+
+Name: patch/system/framework/media_cmd.jar.p
+SHA1-Digest: LnAubW1H/eflMrwz6b/ImKYfwpQ=
+
+Name: patch/system/cust/overlay/app/com.lge.lockscreensettings.apk.p
+SHA1-Digest: rKcYZLOJDRq9FMs0PQewTwHUyqg=
+
+Name: patch/system/cust/overlay/app/com.lge.app.richnote.apk.p
+SHA1-Digest: GsnPohZEMZAyx4QgjXHWxYYtBzk=
+
+Name: patch/system/priv-app/LGSystemUI_Provider.apk.p
+SHA1-Digest: ER3DLbF69C0r7TajwTULyhHVZdc=
+
+Name: patch/system/framework/lgsvcitems.jar.p
+SHA1-Digest: 0d7fadJD+QaY8H/tO6PWusV4HNQ=
+
+Name: patch/system/vendor/lib/liblgewebviewchromium.so.p
+SHA1-Digest: RIunWYnjUQR9R841df80ikRC55c=
+
+Name: patch/system/priv-app/SprintID.odex.p
+SHA1-Digest: i9HORMY6QTgG/rQbkWuno8eGX2o=
+
+Name: patch/system/app/LGATCMDService.odex.p
+SHA1-Digest: LRi/8AXZmtOe9+2i7dcVOU7DqXE=
+
+Name: patch/system/priv-app/LGMediaProvider.apk.p
+SHA1-Digest: HxVv2GK+lR5lO1IVXcB5OH80cLc=
+
+Name: patch/system/framework/com.lge.zdi.interaction.jar.p
+SHA1-Digest: 5dLL06cdb2eRDiNjEIaqJGz0K3I=
+
+Name: patch/system/framework/media_cmd.odex.p
+SHA1-Digest: hhNFpaAoHSnbSMgV0cbITQ0h4JU=
+
+Name: patch/system/bin/mcDriverDaemon.p
+SHA1-Digest: W5H8bky/GeW+KgVpFlk3xmIOFo4=
+
+Name: patch/system/framework/core.jar.p
+SHA1-Digest: ykObFDh4lIcv8zUOspnI/Pb0rKQ=
+
+Name: patch/system/framework/svc.jar.p
+SHA1-Digest: 9vHOid4SdiUKkYrjiGFZL6pzer4=
+
+Name: patch/system/cust/overlay/app/com.lge.fmradio.apk.p
+SHA1-Digest: HX2iJ+mDnUdIEqiJsW37479c3rE=
+
+Name: system/vendor/itson/resources.version
+SHA1-Digest: waJRPQw3x/cM35j/9We1Nt7LpiQ=
+
+Name: patch/system/framework/core-junit.jar.p
+SHA1-Digest: 2DXKL79Prf/Usg1YUhNR2MkZ4Ys=
+
+Name: patch/system/priv-app/LGKeyguard.odex.p
+SHA1-Digest: 8aKCeG3zhwLiWjX+BmHpa3XyPr0=
+
+Name: patch/system/lib/modules/gpio_matrix.ko.p
+SHA1-Digest: FV7VGueaadyD2Xa9uSsIDDvT0LY=
+
+Name: patch/system/app/PacProcessor.odex.p
+SHA1-Digest: 2i56Dcd41zw7z8Hof6IM3RzZtIQ=
+
+Name: patch/system/cust/overlay/app/com.android.providers.settings.apk
+ .p
+SHA1-Digest: VOt+paQRXET6dDEX8BjmmTppcyw=
+
+Name: patch/system/app/atfwd.apk.p
+SHA1-Digest: X/VYVEQQGn1Rwk/jKwV9ygcgQeA=
+
+Name: patch/system/framework/ext.jar.p
+SHA1-Digest: YCT2nPTRKROt9/g9Tpv4bXzoQ5Y=
+
+Name: patch/system/vendor/itson/resources.zip.p
+SHA1-Digest: HDB3XDhhGuR8Y6hrHrqmag7N2IU=
+
+Name: patch/system/priv-app/LGCalendar.odex.p
+SHA1-Digest: Fg2KFFZmKavGlHRArEgkuuwkHEo=
+
+Name: patch/system/bin/morningcall.p
+SHA1-Digest: QOtwEFNq/VIvXDNF1QUDYmt6AX0=
+
+Name: patch/system/lib/modules/spidev.ko.p
+SHA1-Digest: UsONKgm11E0F0K/2XvJ94gsw+VQ=
+
+Name: patch/system/framework/telephony-msim.odex.p
+SHA1-Digest: 5is2DeJPPV5Rs25zz6y7E1sK+lQ=
+
+Name: patch/system/priv-app/SetupWizard.apk.p
+SHA1-Digest: czWhEBDFIOdPQmecBQNewe+NtGk=
+
+Name: patch/system/lib/libjgcastservice.so.p
+SHA1-Digest: IQXyDMw12qJWS2PIxr3wv7ZJ+1w=
+
+Name: patch/system/cust/overlay/app/com.android.providers.partnerbookm
+ arks.apk.p
+SHA1-Digest: JBA7rcI7EEJgxVRKA/kNBdQSKxQ=
+
+Name: patch/system/priv-app/LGFavoriteContactsWidget.odex.p
+SHA1-Digest: //uIjXH6WiFiv5IxGEdjV4kPZSI=
+
+Name: patch/system/framework/qcmediaplayer.odex.p
+SHA1-Digest: 9piPxvz/aqj8TiGQkWZNc2xd1r0=
+
+Name: patch/system/priv-app/GmsCore.apk.p
+SHA1-Digest: f84z3DlHiLjQTtReObNo9U3OJKw=
+
+Name: patch/system/lib/liblgdrm.so.p
+SHA1-Digest: kpL1QBjZ5E+nrwMAp/SJLJD+HVk=
+
+Name: patch/system/priv-app/InputDevices.odex.p
+SHA1-Digest: aM/VxymLzlBCk+mC6/2nY3IPtQI=
+
+Name: patch/system/framework/com.lge.systemui.odex.p
+SHA1-Digest: hAEG5zIOWlbmjX8nyRlgzXYJso8=
+
+Name: patch/system/app/Books.apk.p
+SHA1-Digest: Gd94oBocfObLEr6apzzWDzyVVBI=
+
+Name: patch/system/app/SmartShareProvider.odex.p
+SHA1-Digest: /mWdm2ZJXfcEaPJ6ILPf5m30smM=
+
+Name: patch/system/app/LGAppCleanup.odex.p
+SHA1-Digest: VScgsYRJkwi3oechLemRr3zyszo=
+
+Name: patch/system/priv-app/GoogleBackupTransport.apk.p
+SHA1-Digest: oPKwSKncu3x9UuUPMmA4qh2M1Uk=
+
+Name: patch/system/priv-app/LGVoiceCommand.odex.p
+SHA1-Digest: crxpuKq87BC83NOZD/0ZlVOFtu8=
+
+Name: patch/system/priv-app/LGClockWidget.odex.p
+SHA1-Digest: CG+hsbG05o+CDDpRN4A52YYxY/8=
+
+Name: patch/system/app/WfdService.odex.p
+SHA1-Digest: vreQTQbCBS2qgQlGohZtRh+fe1A=
+
+Name: patch/system/etc/recovery-resource.dat.p
+SHA1-Digest: ZyiVvRPj1gnR9rV240nPBDfIqHw=
+
+Name: patch/system/app/FaceLock.odex.p
+SHA1-Digest: YDxrN4qypsZbzQHKEITxC+U2CaI=
+
+Name: patch/system/app/YouTube.apk.p
+SHA1-Digest: 8QJ5g1hrivAOhWxFl6VeZTaU7HI=
+
+Name: patch/system/framework/content.jar.p
+SHA1-Digest: 3kgGPE1Wwwykxd7B3Z/XMsobWJk=
+
+Name: patch/system/app/atfwd.odex.p
+SHA1-Digest: G+2paKRHvEijXXDDv6dZaHZsFIQ=
+
+Name: patch/system/priv-app/SprintExtensionProvider.odex.p
+SHA1-Digest: HtRlKhXc07Vt3jt5RZ41IPjxPEk=
+
+Name: patch/system/lib/modules/mmc_test.ko.p
+SHA1-Digest: hXY6IQ4LJiVm+HUSOoX+QV2G5cM=
+
+Name: patch/system/app/YouTube.odex.p
+SHA1-Digest: vhcTRcqXuvF+TwCb86pT9NuYSyQ=
+
+Name: patch/system/app/LGEIME_THEME_NATURAL.odex.p
+SHA1-Digest: XWaoN/YyMn2sr8IR07gAo7Nqvh0=
+
+Name: patch/system/priv-app/FontServer.odex.p
+SHA1-Digest: 1JmWjzPHdPqxmL4lh4VqgkZz/oM=
+
+Name: patch/system/priv-app/GmsCore.odex.p
+SHA1-Digest: kmL0EJ2z2vmfMUMXta/Yfs2wruQ=
+
+Name: patch/system/lib/modules/tda18271.ko.p
+SHA1-Digest: PIiH1ldCooufwZSgdKzv7Yr4gvQ=
+
+Name: patch/system/framework/mms-common.jar.p
+SHA1-Digest: /mZ/ebq27ncdMOFoqvXOYvRJgE8=
+
+Name: patch/system/cust/overlay/app/com.lge.email.apk.p
+SHA1-Digest: NBRbVlujrThG5nq07FnGYPkt6Qc=
+
+Name: patch/system/priv-app/GoogleLoginService.odex.p
+SHA1-Digest: QkNHjeMdED2t16Iesd/uYkVqvoY=
+
+Name: patch/system/framework/input.jar.p
+SHA1-Digest: Ef2jyb0SNlltOgYhNJhi9UtFZnY=
+
+Name: patch/system/priv-app/LGTTSPAService.odex.p
+SHA1-Digest: lvgVRKy+nTf42CtFXX3/1FXQDSQ=
+
+Name: patch/system/app/Maps.odex.p
+SHA1-Digest: mQRSOSn0wUGBiAetFTnN/Jbd8qQ=
+
+Name: patch/system/vendor/lib/mediadrm/libwvdrmengine.so.p
+SHA1-Digest: IxtEkAGmp1AJ29KiUaHZsYRLrhw=
+
+Name: patch/system/framework/ext.odex.p
+SHA1-Digest: O3PBste+fNuNSmWBqSfJ4Iy28Vw=
+
+Name: patch/system/lib/libbcc.so.p
+SHA1-Digest: 9LKTaFGmWqFBGeLFa4OEut5iPy0=
+
+Name: patch/system/priv-app/LGCameraApp.odex.p
+SHA1-Digest: fpvbo5+32a6rpi34Oh+9HPzIoi0=
+
+Name: patch/system/framework/bu.jar.p
+SHA1-Digest: tLxRRFrm8fLBfkYON1Bh57QVh+c=
+
+Name: patch/system/priv-app/VpnDialogs.apk.p
+SHA1-Digest: T5kcQdyZXaBwiT6GN+HvOKHna24=
+
+Name: patch/system/app/LGEIME_THEME_LOVELY.odex.p
+SHA1-Digest: sZMQv3ti2hjiw5Ld9h21kq/wLgU=
+
+Name: patch/system/app/CertInstaller.odex.p
+SHA1-Digest: rwMHsKB0lj8+0VaadN7mVNqaUos=
+
+Name: patch/system/app/DrmService.apk.p
+SHA1-Digest: SJI0msJBoFg9v3IMVgKK95FU1/4=
+
+Name: patch/system/cust/overlay/app/com.lge.updatecenter.apk.p
+SHA1-Digest: mcY8JgjDV2sMl8/SewoMy3c1CEs=
+

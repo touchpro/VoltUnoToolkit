@@ -1,0 +1,4 @@
+post-build=lge/x5_spr_us/x5:4.4.2/KOT49I.LS740ZV5/LS740ZV5.1417913828:user/release-keys
+post-timestamp=1417913990
+pre-build=lge/x5_spr_us/x5:4.4.2/KOT49I.LS740ZV4/LS740ZV4.1408350678:user/release-keys
+pre-device=x5
